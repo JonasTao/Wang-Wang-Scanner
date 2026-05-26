@@ -3,6 +3,8 @@
 基于 **PyQt5** 的网络安全信息收集工具。界面为可爱风格，左侧有**小狗与小猫互动打闹**的动态陪伴动画。
 
 > ⚠️ 仅供在获得明确书面授权的前提下进行合法安全测试。
+<img width="1274" height="831" alt="{6A2BDEE2-4CE7-4325-B668-F5B1D7271B10}" src="https://github.com/user-attachments/assets/983ebef4-1347-459b-a0bb-1b0291103f7c" />
+
 
 ## 功能模块（共 18 项）
 
